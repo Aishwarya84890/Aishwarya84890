@@ -1,7 +1,7 @@
 # Hi, I'm Aishwarya! 👋
 
 ### About Me
-- First-year  student
+- Second year  student
 - Learning Full Stack Development
 - Practicing Data Structures and Algorithms using Java
 - Interested in Software Development
@@ -15,4 +15,4 @@
 - Python
 - C
 - HTML & CSS
--
+
